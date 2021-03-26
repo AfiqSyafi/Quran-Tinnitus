@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1045473291789",
+    "project_id": "quran-tinnitus-155b9",
+    "storage_bucket": "quran-tinnitus-155b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045473291789:android:02388f6761bf4472d56f44",
+        "android_client_info": {
+          "package_name": "com.syafi.quran_tinnitus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045473291789-f3sap2e2hhrca0ra8l1r3nvdbpka1fr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXuE3FPoBWV8FBauFjOriwgJWVsNFEDIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045473291789-f3sap2e2hhrca0ra8l1r3nvdbpka1fr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
